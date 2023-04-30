@@ -1,0 +1,96 @@
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _dd1caa5591cff114 -p********** _dd1caa5591cff114 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gym.local/private/backups/20230427_053003-gym_local-database.sql.gz
+
+Backup Summary for gym.local at 2023-04-27 05:30:08.247528
+Config  : ./gym.local/private/backups/20230427_053003-gym_local-site_config_backup.json 118.0B
+Database: ./gym.local/private/backups/20230427_053003-gym_local-database.sql.gz         1.0MiB
+Backup for Site gym.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _dd1caa5591cff114 -p********** _dd1caa5591cff114 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gym.local/private/backups/20230427_113004-gym_local-database.sql.gz
+
+Backup Summary for gym.local at 2023-04-27 11:30:07.809920
+Config  : ./gym.local/private/backups/20230427_113004-gym_local-site_config_backup.json 118.0B
+Database: ./gym.local/private/backups/20230427_113004-gym_local-database.sql.gz         1.0MiB
+Backup for Site gym.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _dd1caa5591cff114 -p********** _dd1caa5591cff114 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gym.local/private/backups/20230427_173003-gym_local-database.sql.gz
+
+Backup Summary for gym.local at 2023-04-27 17:30:07.609470
+Config  : ./gym.local/private/backups/20230427_173003-gym_local-site_config_backup.json 118.0B
+Database: ./gym.local/private/backups/20230427_173003-gym_local-database.sql.gz         1.0MiB
+Backup for Site gym.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _dd1caa5591cff114 -p********** _dd1caa5591cff114 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gym.local/private/backups/20230427_233003-gym_local-database.sql.gz
+
+Backup Summary for gym.local at 2023-04-27 23:30:06.482876
+Config  : ./gym.local/private/backups/20230427_233003-gym_local-site_config_backup.json 118.0B
+Database: ./gym.local/private/backups/20230427_233003-gym_local-database.sql.gz         1.0MiB
+Backup for Site gym.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _dd1caa5591cff114 -p********** _dd1caa5591cff114 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gym.local/private/backups/20230428_053003-gym_local-database.sql.gz
+
+Backup Summary for gym.local at 2023-04-28 05:30:06.728423
+Config  : ./gym.local/private/backups/20230428_053003-gym_local-site_config_backup.json 118.0B
+Database: ./gym.local/private/backups/20230428_053003-gym_local-database.sql.gz         1.0MiB
+Backup for Site gym.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _dd1caa5591cff114 -p********** _dd1caa5591cff114 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gym.local/private/backups/20230428_113005-gym_local-database.sql.gz
+
+Backup Summary for gym.local at 2023-04-28 11:30:07.709255
+Config  : ./gym.local/private/backups/20230428_113005-gym_local-site_config_backup.json 118.0B
+Database: ./gym.local/private/backups/20230428_113005-gym_local-database.sql.gz         1.0MiB
+Backup for Site gym.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _dd1caa5591cff114 -p********** _dd1caa5591cff114 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gym.local/private/backups/20230428_173003-gym_local-database.sql.gz
+
+Backup Summary for gym.local at 2023-04-28 17:30:07.545003
+Config  : ./gym.local/private/backups/20230428_173003-gym_local-site_config_backup.json 118.0B
+Database: ./gym.local/private/backups/20230428_173003-gym_local-database.sql.gz         1.0MiB
+Backup for Site gym.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _dd1caa5591cff114 -p********** _dd1caa5591cff114 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gym.local/private/backups/20230428_130004-gym_local-database.sql.gz
+
+Backup Summary for gym.local at 2023-04-28 13:00:07.602760
+Config  : ./gym.local/private/backups/20230428_130004-gym_local-site_config_backup.json 118.0B
+Database: ./gym.local/private/backups/20230428_130004-gym_local-database.sql.gz         1.1MiB
+Backup for Site gym.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _dd1caa5591cff114 -p********** _dd1caa5591cff114 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gym.local/private/backups/20230428_190004-gym_local-database.sql.gz
+
+Backup Summary for gym.local at 2023-04-28 19:00:07.403489
+Config  : ./gym.local/private/backups/20230428_190004-gym_local-site_config_backup.json 118.0B
+Database: ./gym.local/private/backups/20230428_190004-gym_local-database.sql.gz         1.1MiB
+Backup for Site gym.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _dd1caa5591cff114 -p********** _dd1caa5591cff114 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gym.local/private/backups/20230429_010004-gym_local-database.sql.gz
+
+Backup Summary for gym.local at 2023-04-29 01:00:08.760494
+Config  : ./gym.local/private/backups/20230429_010004-gym_local-site_config_backup.json 118.0B
+Database: ./gym.local/private/backups/20230429_010004-gym_local-database.sql.gz         1.1MiB
+Backup for Site gym.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _dd1caa5591cff114 -p********** _dd1caa5591cff114 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gym.local/private/backups/20230429_070003-gym_local-database.sql.gz
+
+Backup Summary for gym.local at 2023-04-29 07:00:07.127008
+Config  : ./gym.local/private/backups/20230429_070003-gym_local-site_config_backup.json 118.0B
+Database: ./gym.local/private/backups/20230429_070003-gym_local-database.sql.gz         1.1MiB
+Backup for Site gym.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _dd1caa5591cff114 -p********** _dd1caa5591cff114 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gym.local/private/backups/20230429_130003-gym_local-database.sql.gz
+
+Backup Summary for gym.local at 2023-04-29 13:00:06.365679
+Config  : ./gym.local/private/backups/20230429_130003-gym_local-site_config_backup.json 118.0B
+Database: ./gym.local/private/backups/20230429_130003-gym_local-database.sql.gz         1.1MiB
+Backup for Site gym.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _dd1caa5591cff114 -p********** _dd1caa5591cff114 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gym.local/private/backups/20230429_190003-gym_local-database.sql.gz
+
+Backup Summary for gym.local at 2023-04-29 19:00:06.659122
+Config  : ./gym.local/private/backups/20230429_190003-gym_local-site_config_backup.json 118.0B
+Database: ./gym.local/private/backups/20230429_190003-gym_local-database.sql.gz         1.1MiB
+Backup for Site gym.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _dd1caa5591cff114 -p********** _dd1caa5591cff114 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gym.local/private/backups/20230430_010005-gym_local-database.sql.gz
+
+Backup Summary for gym.local at 2023-04-30 01:00:09.040860
+Config  : ./gym.local/private/backups/20230430_010005-gym_local-site_config_backup.json 118.0B
+Database: ./gym.local/private/backups/20230430_010005-gym_local-database.sql.gz         1.1MiB
+Backup for Site gym.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _dd1caa5591cff114 -p********** _dd1caa5591cff114 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gym.local/private/backups/20230430_070003-gym_local-database.sql.gz
+
+Backup Summary for gym.local at 2023-04-30 07:00:06.984362
+Config  : ./gym.local/private/backups/20230430_070003-gym_local-site_config_backup.json 118.0B
+Database: ./gym.local/private/backups/20230430_070003-gym_local-database.sql.gz         1.1MiB
+Backup for Site gym.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _dd1caa5591cff114 -p********** _dd1caa5591cff114 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gym.local/private/backups/20230430_130003-gym_local-database.sql.gz
+
+Backup Summary for gym.local at 2023-04-30 13:00:06.564287
+Config  : ./gym.local/private/backups/20230430_130003-gym_local-site_config_backup.json 118.0B
+Database: ./gym.local/private/backups/20230430_130003-gym_local-database.sql.gz         1.1MiB
+Backup for Site gym.local has been successfully completed

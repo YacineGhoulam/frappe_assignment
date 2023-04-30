@@ -1,0 +1,532 @@
+[2023-04-26 20:21:27 +0000] [20602] [INFO] Starting gunicorn 20.1.0
+[2023-04-26 20:21:27 +0000] [20602] [INFO] Listening at: http://127.0.0.1:8000 (20602)
+[2023-04-26 20:21:27 +0000] [20602] [INFO] Using worker: sync
+[2023-04-26 20:21:27 +0000] [20664] [INFO] Booting worker with pid: 20664
+[2023-04-26 20:21:27 +0000] [20665] [INFO] Booting worker with pid: 20665
+[2023-04-26 20:21:27 +0000] [20666] [INFO] Booting worker with pid: 20666
+[2023-04-26 20:21:27 +0000] [20667] [INFO] Booting worker with pid: 20667
+[2023-04-26 20:21:27 +0000] [20668] [INFO] Booting worker with pid: 20668
+[2023-04-26 20:21:27 +0000] [20669] [INFO] Booting worker with pid: 20669
+[2023-04-26 20:21:27 +0000] [20670] [INFO] Booting worker with pid: 20670
+[2023-04-26 20:21:27 +0000] [20672] [INFO] Booting worker with pid: 20672
+[2023-04-26 20:21:27 +0000] [20673] [INFO] Booting worker with pid: 20673
+[2023-04-26 20:21:27 +0000] [20674] [INFO] Booting worker with pid: 20674
+[2023-04-26 20:21:27 +0000] [20675] [INFO] Booting worker with pid: 20675
+[2023-04-26 20:21:28 +0000] [20678] [INFO] Booting worker with pid: 20678
+[2023-04-26 20:21:28 +0000] [20679] [INFO] Booting worker with pid: 20679
+[2023-04-26 20:21:28 +0000] [20680] [INFO] Booting worker with pid: 20680
+[2023-04-26 20:21:28 +0000] [20681] [INFO] Booting worker with pid: 20681
+[2023-04-26 20:21:28 +0000] [20682] [INFO] Booting worker with pid: 20682
+[2023-04-26 20:21:28 +0000] [20683] [INFO] Booting worker with pid: 20683
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+[2023-04-27 11:00:13 +0000] [20602] [INFO] Handling signal: term
+[2023-04-27 11:00:13 +0000] [20664] [INFO] Worker exiting (pid: 20664)
+[2023-04-27 11:00:13 +0000] [20665] [INFO] Worker exiting (pid: 20665)
+[2023-04-27 11:00:13 +0000] [20666] [INFO] Worker exiting (pid: 20666)
+[2023-04-27 11:00:13 +0000] [20667] [INFO] Worker exiting (pid: 20667)
+[2023-04-27 11:00:13 +0000] [20674] [INFO] Worker exiting (pid: 20674)
+[2023-04-27 11:00:13 +0000] [20669] [INFO] Worker exiting (pid: 20669)
+[2023-04-27 11:00:13 +0000] [20678] [INFO] Worker exiting (pid: 20678)
+[2023-04-27 11:00:13 +0000] [20683] [INFO] Worker exiting (pid: 20683)
+[2023-04-27 11:00:13 +0000] [20668] [INFO] Worker exiting (pid: 20668)
+[2023-04-27 11:00:13 +0000] [20680] [INFO] Worker exiting (pid: 20680)
+[2023-04-27 11:00:13 +0000] [20673] [INFO] Worker exiting (pid: 20673)
+[2023-04-27 11:00:13 +0000] [20675] [INFO] Worker exiting (pid: 20675)
+[2023-04-27 11:00:13 +0000] [20681] [INFO] Worker exiting (pid: 20681)
+[2023-04-27 11:00:13 +0000] [20670] [INFO] Worker exiting (pid: 20670)
+[2023-04-27 11:00:13 +0000] [20679] [INFO] Worker exiting (pid: 20679)
+[2023-04-27 11:00:13 +0000] [20682] [INFO] Worker exiting (pid: 20682)
+[2023-04-27 11:00:13 +0000] [20672] [INFO] Worker exiting (pid: 20672)
+[2023-04-27 11:00:13 +0000] [20602] [INFO] Shutting down: Master
+[2023-04-27 11:04:12 +0000] [372] [INFO] Starting gunicorn 20.1.0
+[2023-04-27 11:04:12 +0000] [372] [INFO] Listening at: http://127.0.0.1:8000 (372)
+[2023-04-27 11:04:12 +0000] [372] [INFO] Using worker: sync
+[2023-04-27 11:04:12 +0000] [505] [INFO] Booting worker with pid: 505
+[2023-04-27 11:04:12 +0000] [506] [INFO] Booting worker with pid: 506
+[2023-04-27 11:04:12 +0000] [507] [INFO] Booting worker with pid: 507
+[2023-04-27 11:04:13 +0000] [508] [INFO] Booting worker with pid: 508
+[2023-04-27 11:04:13 +0000] [510] [INFO] Booting worker with pid: 510
+[2023-04-27 11:04:13 +0000] [511] [INFO] Booting worker with pid: 511
+[2023-04-27 11:04:13 +0000] [513] [INFO] Booting worker with pid: 513
+[2023-04-27 11:04:13 +0000] [514] [INFO] Booting worker with pid: 514
+[2023-04-27 11:04:13 +0000] [516] [INFO] Booting worker with pid: 516
+[2023-04-27 11:04:13 +0000] [517] [INFO] Booting worker with pid: 517
+[2023-04-27 11:04:13 +0000] [518] [INFO] Booting worker with pid: 518
+[2023-04-27 11:04:13 +0000] [519] [INFO] Booting worker with pid: 519
+[2023-04-27 11:04:13 +0000] [520] [INFO] Booting worker with pid: 520
+[2023-04-27 11:04:13 +0000] [521] [INFO] Booting worker with pid: 521
+[2023-04-27 11:04:13 +0000] [522] [INFO] Booting worker with pid: 522
+[2023-04-27 11:04:13 +0000] [523] [INFO] Booting worker with pid: 523
+[2023-04-27 11:04:13 +0000] [524] [INFO] Booting worker with pid: 524
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+[2023-04-28 11:00:18 +0000] [372] [INFO] Handling signal: term
+[2023-04-28 11:00:18 +0000] [508] [INFO] Worker exiting (pid: 508)
+[2023-04-28 11:00:18 +0000] [505] [INFO] Worker exiting (pid: 505)
+[2023-04-28 11:00:18 +0000] [513] [INFO] Worker exiting (pid: 513)
+[2023-04-28 11:00:18 +0000] [510] [INFO] Worker exiting (pid: 510)
+[2023-04-28 11:00:18 +0000] [511] [INFO] Worker exiting (pid: 511)
+[2023-04-28 11:00:18 +0000] [506] [INFO] Worker exiting (pid: 506)
+[2023-04-28 11:00:18 +0000] [507] [INFO] Worker exiting (pid: 507)
+[2023-04-28 11:00:18 +0000] [520] [INFO] Worker exiting (pid: 520)
+[2023-04-28 11:00:18 +0000] [516] [INFO] Worker exiting (pid: 516)
+[2023-04-28 11:00:18 +0000] [517] [INFO] Worker exiting (pid: 517)
+[2023-04-28 11:00:18 +0000] [522] [INFO] Worker exiting (pid: 522)
+[2023-04-28 11:00:18 +0000] [524] [INFO] Worker exiting (pid: 524)
+[2023-04-28 11:00:18 +0000] [521] [INFO] Worker exiting (pid: 521)
+[2023-04-28 11:00:18 +0000] [514] [INFO] Worker exiting (pid: 514)
+[2023-04-28 11:00:18 +0000] [519] [INFO] Worker exiting (pid: 519)
+[2023-04-28 11:00:18 +0000] [518] [INFO] Worker exiting (pid: 518)
+[2023-04-28 11:00:18 +0000] [523] [INFO] Worker exiting (pid: 523)
+[2023-04-28 11:00:19 +0000] [372] [INFO] Shutting down: Master
+[2023-04-28 11:04:26 +0000] [362] [INFO] Starting gunicorn 20.1.0
+[2023-04-28 11:04:26 +0000] [362] [INFO] Listening at: http://127.0.0.1:8000 (362)
+[2023-04-28 11:04:26 +0000] [362] [INFO] Using worker: sync
+[2023-04-28 11:04:26 +0000] [505] [INFO] Booting worker with pid: 505
+[2023-04-28 11:04:26 +0000] [506] [INFO] Booting worker with pid: 506
+[2023-04-28 11:04:26 +0000] [507] [INFO] Booting worker with pid: 507
+[2023-04-28 11:04:26 +0000] [508] [INFO] Booting worker with pid: 508
+[2023-04-28 11:04:26 +0000] [509] [INFO] Booting worker with pid: 509
+[2023-04-28 11:04:26 +0000] [510] [INFO] Booting worker with pid: 510
+[2023-04-28 11:04:26 +0000] [511] [INFO] Booting worker with pid: 511
+[2023-04-28 11:04:27 +0000] [512] [INFO] Booting worker with pid: 512
+[2023-04-28 11:04:27 +0000] [513] [INFO] Booting worker with pid: 513
+[2023-04-28 11:04:27 +0000] [516] [INFO] Booting worker with pid: 516
+[2023-04-28 11:04:27 +0000] [518] [INFO] Booting worker with pid: 518
+[2023-04-28 11:04:27 +0000] [519] [INFO] Booting worker with pid: 519
+[2023-04-28 11:04:27 +0000] [520] [INFO] Booting worker with pid: 520
+[2023-04-28 11:04:27 +0000] [521] [INFO] Booting worker with pid: 521
+[2023-04-28 11:04:27 +0000] [522] [INFO] Booting worker with pid: 522
+[2023-04-28 11:04:27 +0000] [523] [INFO] Booting worker with pid: 523
+[2023-04-28 11:04:27 +0000] [524] [INFO] Booting worker with pid: 524
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+[2023-04-29 11:00:13 +0000] [362] [INFO] Handling signal: term
+[2023-04-29 11:00:13 +0000] [506] [INFO] Worker exiting (pid: 506)
+[2023-04-29 11:00:13 +0000] [508] [INFO] Worker exiting (pid: 508)
+[2023-04-29 11:00:13 +0000] [505] [INFO] Worker exiting (pid: 505)
+[2023-04-29 11:00:13 +0000] [509] [INFO] Worker exiting (pid: 509)
+[2023-04-29 11:00:13 +0000] [511] [INFO] Worker exiting (pid: 511)
+[2023-04-29 11:00:13 +0000] [507] [INFO] Worker exiting (pid: 507)
+[2023-04-29 11:00:13 +0000] [513] [INFO] Worker exiting (pid: 513)
+[2023-04-29 11:00:13 +0000] [510] [INFO] Worker exiting (pid: 510)
+[2023-04-29 11:00:13 +0000] [523] [INFO] Worker exiting (pid: 523)
+[2023-04-29 11:00:13 +0000] [524] [INFO] Worker exiting (pid: 524)
+[2023-04-29 11:00:13 +0000] [518] [INFO] Worker exiting (pid: 518)
+[2023-04-29 11:00:13 +0000] [516] [INFO] Worker exiting (pid: 516)
+[2023-04-29 11:00:13 +0000] [519] [INFO] Worker exiting (pid: 519)
+[2023-04-29 11:00:13 +0000] [521] [INFO] Worker exiting (pid: 521)
+[2023-04-29 11:00:13 +0000] [520] [INFO] Worker exiting (pid: 520)
+[2023-04-29 11:00:13 +0000] [512] [INFO] Worker exiting (pid: 512)
+[2023-04-29 11:00:13 +0000] [522] [INFO] Worker exiting (pid: 522)
+[2023-04-29 11:00:14 +0000] [362] [INFO] Shutting down: Master
+[2023-04-29 11:03:53 +0000] [355] [INFO] Starting gunicorn 20.1.0
+[2023-04-29 11:03:53 +0000] [355] [INFO] Listening at: http://127.0.0.1:8000 (355)
+[2023-04-29 11:03:53 +0000] [355] [INFO] Using worker: sync
+[2023-04-29 11:03:53 +0000] [505] [INFO] Booting worker with pid: 505
+[2023-04-29 11:03:53 +0000] [506] [INFO] Booting worker with pid: 506
+[2023-04-29 11:03:53 +0000] [507] [INFO] Booting worker with pid: 507
+[2023-04-29 11:03:53 +0000] [508] [INFO] Booting worker with pid: 508
+[2023-04-29 11:03:53 +0000] [509] [INFO] Booting worker with pid: 509
+[2023-04-29 11:03:53 +0000] [510] [INFO] Booting worker with pid: 510
+[2023-04-29 11:03:53 +0000] [511] [INFO] Booting worker with pid: 511
+[2023-04-29 11:03:53 +0000] [512] [INFO] Booting worker with pid: 512
+[2023-04-29 11:03:53 +0000] [513] [INFO] Booting worker with pid: 513
+[2023-04-29 11:03:53 +0000] [514] [INFO] Booting worker with pid: 514
+[2023-04-29 11:03:53 +0000] [515] [INFO] Booting worker with pid: 515
+[2023-04-29 11:03:53 +0000] [517] [INFO] Booting worker with pid: 517
+[2023-04-29 11:03:53 +0000] [518] [INFO] Booting worker with pid: 518
+[2023-04-29 11:03:53 +0000] [520] [INFO] Booting worker with pid: 520
+[2023-04-29 11:03:53 +0000] [521] [INFO] Booting worker with pid: 521
+[2023-04-29 11:03:53 +0000] [522] [INFO] Booting worker with pid: 522
+[2023-04-29 11:03:53 +0000] [524] [INFO] Booting worker with pid: 524
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+[2023-04-29 23:17:48 +0000] [520] [ERROR] Error handling request /app/module-def/new-module-def-1
+Traceback (most recent call last):
+  File "/home/ubuntu/frappe-bench/env/lib/python3.10/site-packages/gunicorn/workers/sync.py", line 136, in handle
+    self.handle_request(listener, req, client, addr)
+  File "/home/ubuntu/frappe-bench/env/lib/python3.10/site-packages/gunicorn/workers/sync.py", line 179, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 237, in application
+    return ClosingIterator(app(environ, start_response), self.cleanup)
+  File "/home/ubuntu/frappe-bench/env/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 194, in application
+    resp = f(*args[:-2] + (request,))
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/app.py", line 84, in application
+    response = handle_exception(e)
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/app.py", line 338, in handle_exception
+    response = get_response("message", http_status_code=http_status_code)
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/website/serve.py", line 26, in get_response
+    frappe.log_error(f"{path} failed")
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/__init__.py", line 2238, in log_error
+    error_log = get_doc(
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/__init__.py", line 1184, in get_doc
+    doc = frappe.model.document.get_doc(*args, **kwargs)
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/model/document.py", line 72, in get_doc
+    controller = get_controller(doctype)
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/model/base_document.py", line 82, in get_controller
+    site_controllers[doctype] = _get_controller()
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/model/base_document.py", line 48, in _get_controller
+    module_name, custom = frappe.db.get_value(
+  File "/home/ubuntu/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 316, in __get__
+    obj = instance._get_current_object()
+  File "/home/ubuntu/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 495, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+[2023-04-29 23:17:50 +0000] [508] [ERROR] Error handling request /app/module-def/new-module-def-1
+Traceback (most recent call last):
+  File "/home/ubuntu/frappe-bench/env/lib/python3.10/site-packages/gunicorn/workers/sync.py", line 136, in handle
+    self.handle_request(listener, req, client, addr)
+  File "/home/ubuntu/frappe-bench/env/lib/python3.10/site-packages/gunicorn/workers/sync.py", line 179, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 237, in application
+    return ClosingIterator(app(environ, start_response), self.cleanup)
+  File "/home/ubuntu/frappe-bench/env/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 194, in application
+    resp = f(*args[:-2] + (request,))
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/app.py", line 84, in application
+    response = handle_exception(e)
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/app.py", line 338, in handle_exception
+    response = get_response("message", http_status_code=http_status_code)
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/website/serve.py", line 26, in get_response
+    frappe.log_error(f"{path} failed")
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/__init__.py", line 2238, in log_error
+    error_log = get_doc(
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/__init__.py", line 1184, in get_doc
+    doc = frappe.model.document.get_doc(*args, **kwargs)
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/model/document.py", line 72, in get_doc
+    controller = get_controller(doctype)
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/model/base_document.py", line 82, in get_controller
+    site_controllers[doctype] = _get_controller()
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/model/base_document.py", line 48, in _get_controller
+    module_name, custom = frappe.db.get_value(
+  File "/home/ubuntu/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 316, in __get__
+    obj = instance._get_current_object()
+  File "/home/ubuntu/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 495, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+[2023-04-29 23:17:56 +0000] [520] [ERROR] Error handling request /app/doctype/new-doctype-1
+Traceback (most recent call last):
+  File "/home/ubuntu/frappe-bench/env/lib/python3.10/site-packages/gunicorn/workers/sync.py", line 136, in handle
+    self.handle_request(listener, req, client, addr)
+  File "/home/ubuntu/frappe-bench/env/lib/python3.10/site-packages/gunicorn/workers/sync.py", line 179, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 237, in application
+    return ClosingIterator(app(environ, start_response), self.cleanup)
+  File "/home/ubuntu/frappe-bench/env/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 194, in application
+    resp = f(*args[:-2] + (request,))
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/app.py", line 84, in application
+    response = handle_exception(e)
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/app.py", line 338, in handle_exception
+    response = get_response("message", http_status_code=http_status_code)
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/website/serve.py", line 26, in get_response
+    frappe.log_error(f"{path} failed")
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/__init__.py", line 2238, in log_error
+    error_log = get_doc(
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/__init__.py", line 1184, in get_doc
+    doc = frappe.model.document.get_doc(*args, **kwargs)
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/model/document.py", line 72, in get_doc
+    controller = get_controller(doctype)
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/model/base_document.py", line 82, in get_controller
+    site_controllers[doctype] = _get_controller()
+  File "/home/ubuntu/frappe-bench/apps/frappe/frappe/model/base_document.py", line 48, in _get_controller
+    module_name, custom = frappe.db.get_value(
+  File "/home/ubuntu/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 316, in __get__
+    obj = instance._get_current_object()
+  File "/home/ubuntu/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 495, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+[2023-04-29 23:22:41 +0000] [355] [INFO] Handling signal: term
+[2023-04-29 23:22:41 +0000] [508] [INFO] Worker exiting (pid: 508)
+[2023-04-29 23:22:41 +0000] [507] [INFO] Worker exiting (pid: 507)
+[2023-04-29 23:22:41 +0000] [509] [INFO] Worker exiting (pid: 509)
+[2023-04-29 23:22:41 +0000] [520] [INFO] Worker exiting (pid: 520)
+[2023-04-29 23:22:41 +0000] [505] [INFO] Worker exiting (pid: 505)
+[2023-04-29 23:22:41 +0000] [506] [INFO] Worker exiting (pid: 506)
+[2023-04-29 23:22:41 +0000] [518] [INFO] Worker exiting (pid: 518)
+[2023-04-29 23:22:41 +0000] [511] [INFO] Worker exiting (pid: 511)
+[2023-04-29 23:22:41 +0000] [512] [INFO] Worker exiting (pid: 512)
+[2023-04-29 23:22:41 +0000] [515] [INFO] Worker exiting (pid: 515)
+[2023-04-29 23:22:41 +0000] [510] [INFO] Worker exiting (pid: 510)
+[2023-04-29 23:22:41 +0000] [513] [INFO] Worker exiting (pid: 513)
+[2023-04-29 23:22:41 +0000] [524] [INFO] Worker exiting (pid: 524)
+[2023-04-29 23:22:41 +0000] [517] [INFO] Worker exiting (pid: 517)
+[2023-04-29 23:22:41 +0000] [521] [INFO] Worker exiting (pid: 521)
+[2023-04-29 23:22:41 +0000] [514] [INFO] Worker exiting (pid: 514)
+[2023-04-29 23:22:41 +0000] [522] [INFO] Worker exiting (pid: 522)
+[2023-04-29 23:22:42 +0000] [355] [INFO] Shutting down: Master
+[2023-04-29 23:22:45 +0000] [12328] [INFO] Starting gunicorn 20.1.0
+[2023-04-29 23:22:45 +0000] [12328] [INFO] Listening at: http://127.0.0.1:8000 (12328)
+[2023-04-29 23:22:45 +0000] [12328] [INFO] Using worker: sync
+[2023-04-29 23:22:45 +0000] [12344] [INFO] Booting worker with pid: 12344
+[2023-04-29 23:22:45 +0000] [12345] [INFO] Booting worker with pid: 12345
+[2023-04-29 23:22:45 +0000] [12346] [INFO] Booting worker with pid: 12346
+[2023-04-29 23:22:45 +0000] [12347] [INFO] Booting worker with pid: 12347
+[2023-04-29 23:22:45 +0000] [12348] [INFO] Booting worker with pid: 12348
+[2023-04-29 23:22:45 +0000] [12349] [INFO] Booting worker with pid: 12349
+[2023-04-29 23:22:45 +0000] [12350] [INFO] Booting worker with pid: 12350
+[2023-04-29 23:22:45 +0000] [12351] [INFO] Booting worker with pid: 12351
+[2023-04-29 23:22:45 +0000] [12352] [INFO] Booting worker with pid: 12352
+[2023-04-29 23:22:45 +0000] [12353] [INFO] Booting worker with pid: 12353
+[2023-04-29 23:22:45 +0000] [12354] [INFO] Booting worker with pid: 12354
+[2023-04-29 23:22:45 +0000] [12355] [INFO] Booting worker with pid: 12355
+[2023-04-29 23:22:45 +0000] [12356] [INFO] Booting worker with pid: 12356
+[2023-04-29 23:22:46 +0000] [12357] [INFO] Booting worker with pid: 12357
+[2023-04-29 23:22:46 +0000] [12358] [INFO] Booting worker with pid: 12358
+[2023-04-29 23:22:46 +0000] [12359] [INFO] Booting worker with pid: 12359
+[2023-04-29 23:22:46 +0000] [12360] [INFO] Booting worker with pid: 12360
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+[2023-04-30 11:00:35 +0000] [12328] [INFO] Handling signal: term
+[2023-04-30 11:00:35 +0000] [12350] [INFO] Worker exiting (pid: 12350)
+[2023-04-30 11:00:35 +0000] [12351] [INFO] Worker exiting (pid: 12351)
+[2023-04-30 11:00:35 +0000] [12359] [INFO] Worker exiting (pid: 12359)
+[2023-04-30 11:00:35 +0000] [12346] [INFO] Worker exiting (pid: 12346)
+[2023-04-30 11:00:35 +0000] [12352] [INFO] Worker exiting (pid: 12352)
+[2023-04-30 11:00:35 +0000] [12349] [INFO] Worker exiting (pid: 12349)
+[2023-04-30 11:00:35 +0000] [12345] [INFO] Worker exiting (pid: 12345)
+[2023-04-30 11:00:35 +0000] [12347] [INFO] Worker exiting (pid: 12347)
+[2023-04-30 11:00:35 +0000] [12355] [INFO] Worker exiting (pid: 12355)
+[2023-04-30 11:00:35 +0000] [12354] [INFO] Worker exiting (pid: 12354)
+[2023-04-30 11:00:35 +0000] [12348] [INFO] Worker exiting (pid: 12348)
+[2023-04-30 11:00:35 +0000] [12344] [INFO] Worker exiting (pid: 12344)
+[2023-04-30 11:00:35 +0000] [12353] [INFO] Worker exiting (pid: 12353)
+[2023-04-30 11:00:35 +0000] [12358] [INFO] Worker exiting (pid: 12358)
+[2023-04-30 11:00:35 +0000] [12356] [INFO] Worker exiting (pid: 12356)
+[2023-04-30 11:00:35 +0000] [12357] [INFO] Worker exiting (pid: 12357)
+[2023-04-30 11:00:35 +0000] [12360] [INFO] Worker exiting (pid: 12360)
+[2023-04-30 11:00:36 +0000] [12328] [INFO] Shutting down: Master
+[2023-04-30 11:05:21 +0000] [358] [INFO] Starting gunicorn 20.1.0
+[2023-04-30 11:05:21 +0000] [358] [INFO] Listening at: http://127.0.0.1:8000 (358)
+[2023-04-30 11:05:21 +0000] [358] [INFO] Using worker: sync
+[2023-04-30 11:05:21 +0000] [494] [INFO] Booting worker with pid: 494
+[2023-04-30 11:05:21 +0000] [495] [INFO] Booting worker with pid: 495
+[2023-04-30 11:05:21 +0000] [496] [INFO] Booting worker with pid: 496
+[2023-04-30 11:05:21 +0000] [497] [INFO] Booting worker with pid: 497
+[2023-04-30 11:05:22 +0000] [498] [INFO] Booting worker with pid: 498
+[2023-04-30 11:05:22 +0000] [499] [INFO] Booting worker with pid: 499
+[2023-04-30 11:05:22 +0000] [500] [INFO] Booting worker with pid: 500
+[2023-04-30 11:05:22 +0000] [501] [INFO] Booting worker with pid: 501
+[2023-04-30 11:05:22 +0000] [502] [INFO] Booting worker with pid: 502
+[2023-04-30 11:05:22 +0000] [503] [INFO] Booting worker with pid: 503
+[2023-04-30 11:05:22 +0000] [504] [INFO] Booting worker with pid: 504
+[2023-04-30 11:05:22 +0000] [505] [INFO] Booting worker with pid: 505
+[2023-04-30 11:05:22 +0000] [507] [INFO] Booting worker with pid: 507
+[2023-04-30 11:05:22 +0000] [509] [INFO] Booting worker with pid: 509
+[2023-04-30 11:05:22 +0000] [511] [INFO] Booting worker with pid: 511
+[2023-04-30 11:05:22 +0000] [512] [INFO] Booting worker with pid: 512
+[2023-04-30 11:05:22 +0000] [513] [INFO] Booting worker with pid: 513
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)

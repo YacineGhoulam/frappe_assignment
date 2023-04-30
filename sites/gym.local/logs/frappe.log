@@ -1,0 +1,51 @@
+2023-04-29 23:16:02,462 ERROR frappe New Exception collected with id: 2023-04-29 23:16:02.165199-10.10.62.3-a0d
+Site: gym.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Module Def","name":"new-module-def-1","__islocal":1,"__unsaved":1,"owner":"Administrator","custom":1,"module_name":"Gym Management","app_name":"frappe"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-04-29 23:16:20,453 ERROR frappe New Exception collected with id: 2023-04-29 23:16:20.213776-10.10.62.3-d35
+Site: gym.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Module Def","name":"new-module-def-1","__islocal":1,"__unsaved":1,"owner":"Administrator","custom":1,"module_name":"Gym Management","app_name":"frappe"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-04-29 23:16:51,466 ERROR frappe New Exception collected with id: 2023-04-29 23:16:51.218012-127.0.0.1-5ff
+Site: gym.local
+Form Dict: {}
+2023-04-29 23:17:01,317 ERROR frappe New Exception collected with id: 2023-04-29 23:17:01.007497-127.0.0.1-c0d
+Site: gym.local
+Form Dict: {}
+2023-04-29 23:17:38,715 ERROR frappe New Exception collected with id: 2023-04-29 23:17:38.492205-10.10.62.3-4c8
+Site: gym.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Module Def","name":"new-module-def-1","__islocal":1,"__unsaved":1,"owner":"Administrator","custom":1,"app_name":"frappe","module_name":"Gym Management"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-04-29 23:17:43,537 ERROR frappe New Exception collected with id: 2023-04-29 23:17:43.495037-127.0.0.1-b10
+Site: gym.local
+Form Dict: {}
+2023-04-29 23:17:48,673 ERROR frappe New Exception collected with id: 2023-04-29 23:17:48.624665-127.0.0.1-132
+Site: gym.local
+Form Dict: {}
+2023-04-29 23:17:50,910 ERROR frappe New Exception collected with id: 2023-04-29 23:17:50.709241-127.0.0.1-f07
+Site: gym.local
+Form Dict: {}
+2023-04-29 23:17:56,989 ERROR frappe New Exception collected with id: 2023-04-29 23:17:56.950204-127.0.0.1-75b
+Site: gym.local
+Form Dict: {}
+2023-04-29 23:19:27,455 ERROR frappe New Exception collected with id: 2023-04-29 23:19:27.173006-10.10.62.3-21a
+Site: gym.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Module Def","name":"new-module-def-1","__islocal":1,"__unsaved":1,"owner":"Administrator","custom":1,"module_name":"Gym Management","app_name":"frappe"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-04-30 23:14:52,645 ERROR frappe New Exception collected with id: 2023-04-30 23:14:52.304046-10.10.62.3-7f2
+Site: gym.local
+Form Dict: {'report_name': 'Weight Report', 'filters': '{}', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}
+2023-04-30 23:28:03,539 ERROR frappe New Exception collected with id: 2023-04-30 23:28:03.416284-10.10.62.3-504
+Site: gym.local
+Form Dict: {'report_name': 'Weight Report', 'filters': '{}', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}
+2023-04-30 23:28:03,580 ERROR frappe New Exception collected with id: 2023-04-30 23:28:03.151334-10.10.62.3-ecc
+Site: gym.local
+Form Dict: {'report_name': 'Weight Report', 'filters': '{}', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}
+2023-04-30 23:28:03,939 ERROR frappe New Exception collected with id: 2023-04-30 23:28:03.799135-10.10.62.3-7c3
+Site: gym.local
+Form Dict: {'report_name': 'Weight Report', 'filters': '{}', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}
+2023-04-30 23:30:51,020 ERROR frappe New Exception collected with id: 2023-04-30 23:30:50.727016-10.10.62.3-bc0
+Site: gym.local
+Form Dict: {'report_name': 'Weight Tracker', 'filters': '{}', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}
+2023-04-30 23:36:36,067 ERROR frappe New Exception collected with id: 2023-04-30 23:36:35.974458-10.10.62.3-66c
+Site: gym.local
+Form Dict: {'report_name': 'Weight Tracker', 'filters': '{}', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}
+2023-04-30 23:37:45,652 ERROR frappe New Exception collected with id: 2023-04-30 23:37:45.320436-10.10.62.3-a47
+Site: gym.local
+Form Dict: {'report_name': 'Weight Report', 'filters': '{}', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}
